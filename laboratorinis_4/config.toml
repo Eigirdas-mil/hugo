@@ -1,0 +1,4 @@
+baseURL = 'https://Eigirdas-mil.github.io'
+languageCode = 'en-us'
+title = '4 Laboratorinis'
+theme = 'hello-friend'

@@ -1,0 +1,4 @@
+[submodule "laboratorinis_4/public"]
+	path = laboratorinis_4/public
+	url = https://github.com/Eigirdas-mil/Eigirdas-mil.github.io.git
+	branch = main
